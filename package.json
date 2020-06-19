@@ -27,7 +27,7 @@
     "canvas": "1.6.12",
     "clone": "2.1.2",
     "color": "3.0.0",
-    "commander": "2.18.0",
+    "commander": "2.20.3",
     "cors": "2.8.4",
     "express": "4.16.3",
     "glyph-pbf-composite": "0.0.2",
